@@ -10,7 +10,7 @@
 <body>
 
 
-<img src="/storage/emulated/0/Pictures/Messenger/Messenger_creation_8DDB7135-2665-4B7E-BAA5-088E4DF873AF.jpeg" width="600" height="396" alt="Image" usemap="#image-map" >
+<img src="img_map.jpg" width="600" height="396" alt="Image" usemap="#image-map" >
 
 
 <map name="image-map">
@@ -40,4 +40,5 @@
       shape="circle">
 </map>
 </body>
+
 </html>
